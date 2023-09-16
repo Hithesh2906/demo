@@ -1,1 +1,2 @@
 Hi
+console.log('hi')
